@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoneSplitHttpServer", "FoneSplitHttpService\FoneSplitHttpServer.csproj", "{C4763B83-48D9-4EDC-A4B7-C29235AEFCDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4763B83-48D9-4EDC-A4B7-C29235AEFCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4763B83-48D9-4EDC-A4B7-C29235AEFCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4763B83-48D9-4EDC-A4B7-C29235AEFCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4763B83-48D9-4EDC-A4B7-C29235AEFCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA0F752C-FF73-4B24-868A-C746685E7693}
+	EndGlobalSection
+EndGlobal
